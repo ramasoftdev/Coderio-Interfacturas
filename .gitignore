@@ -1,0 +1,67 @@
+*.iws
+*.launch
+.externalToolBuilders/
+.DS_Store
+.idea/
+.nb-gradle/
+.project
+.settings/
+atlassian-ide-plugin.xml
+nbactions.xml
+nbbuild/
+nbdist/
+nbproject/private/
+desktop.ini/
+*.bak
+*.rbc
+*.swp
+*~
+.#*
+.rbx
+/.rdoc
+/TAGS
+/coverage
+/html
+/pkg
+Gemfile.lock
+tmp
+log
+*.sqlite3
+log/*
+/spec/reports/
+/test/reports/
+/vendor/
+
+
+
+### *** required entries below ***
+###
+### Please do not add anything below this line, your changes will be overwritten
+###
+.DS.d74cb6fe
+__MACOSX/
+.history/
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/4a519
+!.vscode/extensions.json
+*.code-workspace
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+node_modules/
+
+
+
+
+###
+###                                                                                                                                                                                                                                  git#304409
+###
